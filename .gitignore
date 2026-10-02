@@ -1,0 +1,27 @@
+# experiment outputs
+results/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+
+# data
+data/
+*.zip
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
