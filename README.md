@@ -1,10 +1,3 @@
-# Toxic Mushroom Classification with Vision Transformers, Federated Learning and Explainable AI
-
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Code style](https://img.shields.io/badge/reproducible-seeded-success.svg)](#reproducibility)
-
 # Toxic mushroom classification — ViT + Federated Learning + XAI
 
 Reproducible pipeline for a short IEEE Access / Elsevier submission. Every table
